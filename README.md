@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Kevin Xie 👋
 
-<!--
-**KevinSheeranxyj/KevinSheeranxyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a L2 blockchain developer with a passion in open source projects and Web3 development, currently working in Shanghai in a Fin-tech Company.
 
-Here are some ideas to get you started:
+## Projects
+- [Project One](https://github.com/john-doe/project-one)
+- [Project Two](https://github.com/john-doe/project-two)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills
+- **Languages**: Java, JavaScript, Rust, Solidity, Python
+- **Frameworks**: React, Vue, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
+
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/kevin-sheeran-182b1a25b/)
+- [Twitter](https://x.com/Kevinsheeranxyj)
+- [Medium](https://medium.com/@kevinsheeranxyj)
+
