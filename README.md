@@ -4,8 +4,8 @@
 I am a L2 blockchain developer with a passion in open source projects and Web3 development, currently working in Shanghai in a Fin-tech Company.
 
 ## Projects
-- [Project One](https://github.com/john-doe/project-one)
-- [Project Two](https://github.com/john-doe/project-two)
+- [WalletSwap](https://github.com/john-doe/project-one)
+- [AllInOnePayment](https://github.com/john-doe/project-two)
 
 
 ## Skills
