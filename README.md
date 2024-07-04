@@ -9,7 +9,7 @@ I am a L2 blockchain developer with a passion in open source projects and Web3 d
 
 
 ## Skills
-- **Languages**: Java, JavaScript, Rust, Solidity, Python
+- **Languages**: Rust, Java, JavaScript, Solidity, Python
 - **Frameworks**: React, Vue, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
 
 
