@@ -10,7 +10,7 @@ I am a Layer 1 blockchain developer with a passion in open source projects and W
 
 
 ## Skills
-- **Languages**: Rust, Golang, JavaScript, Solidity, Python
+- **Languages**: Rust, Golang, Move, JavaScript, Solidity, Python
 - **Frameworks**: React, Vue, Beego, Gin, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
 
 
