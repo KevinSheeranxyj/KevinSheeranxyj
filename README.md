@@ -1,7 +1,7 @@
 # Hello, I'm Kevin Xie 👋
 
 ## About Me
-I am a Layer 2 blockchain developer with a passion in open source projects and Web3 development, currently working in Shanghai in a Fin-tech Company.
+I am a Layer 2 blockchain developer with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
 
 
 ## Projects
