@@ -4,11 +4,6 @@
 I am a blockchain developer with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
 
 
-## Projects
-- [OneSwap](https://github.com/john-doe/project-one)
-- [DeWallet](https://github.com/john-doe/project-two)
-
-
 ## Skills
 - **Languages**: Rust, Golang, JavaScript, Java, Python
 - **Smart Contract Language**: Solidity, Move
