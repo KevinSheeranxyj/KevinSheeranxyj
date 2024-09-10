@@ -6,8 +6,8 @@ I am a blockchain developer with a passion in open source projects and Web3 deve
 
 ## Projects
 
-[Uniswap]()
-[Telenium]()
+- [web-server-rs](https://github.com/kevinsheeranxyj/web-server-rs)
+- [Surge Wallet](https://safesurge.xyz)
 
 ## Skills
 - **Languages**: Rust, Golang, JavaScript, Java, Python
