@@ -12,7 +12,7 @@ I am a blockchain developer with a passion in open source projects and Web3 deve
 ## Skills
 - **Languages**: Rust, Golang, JavaScript, Java, Python
 - **Smart Contract Language**: Solidity, Move
-- **Frameworks**: React, Vue, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
+- **Frameworks**: Actix-web, Tokio, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
 - **Web3**: Cosmos SDK
 
 ## Contact
