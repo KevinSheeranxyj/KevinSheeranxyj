@@ -4,6 +4,11 @@
 I am a blockchain developer with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
 
 
+## Projects
+
+[Uniswap]()
+[Telenium]()
+
 ## Skills
 - **Languages**: Rust, Golang, JavaScript, Java, Python
 - **Smart Contract Language**: Solidity, Move
