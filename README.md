@@ -1,4 +1,4 @@
-# Hello, I'm Kevin Xie 👋
+# Hello, I'm Kevin Sheeran 👋
 
 ## About Me
 I am a Rust developer with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
