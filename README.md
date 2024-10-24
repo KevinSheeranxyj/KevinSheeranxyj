@@ -10,7 +10,7 @@ I am a Rust developer with a passion in open source projects and Web3 developmen
 - [Surge Wallet](https://safesurge.xyz)
 
 ## Skills
-- **Languages**: Rust, Golang, JavaScript, Java, Python
+- **Languages**: Rust, Golang, JavaScript, Java
 - **Smart Contract Language**: Solidity, Move
 - **Frameworks**: Axum, Tokio, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
 - **Databases: Mysql, PostgreSQL, Oracle, Redis, MongoDB
