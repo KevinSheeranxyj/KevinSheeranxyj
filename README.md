@@ -12,7 +12,7 @@ I am a Rust developer with a passion in open source projects and Web3 developmen
 ## Skills
 - **Languages**: Rust, Golang, JavaScript, Java, Python
 - **Smart Contract Language**: Solidity, Move
-- **Frameworks**: Actix-web, Tokio, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
+- **Frameworks**: Axum, Tokio, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
 - **Databases: Mysql, PostgreSQL, Oracle, Redis, MongoDB
 - **Web3**: Cosmos SDK
 
