@@ -10,9 +10,9 @@ I am a Backend developer(Rust, Golang, Java) with a passion in open source proje
 - [Surge Wallet](https://safesurge.xyz)
 
 ## Skills
-- **Languages**: Rust, Golang, JavaScript, Java
+- **Languages**: Rust, Golang, Java, Javascript
 - **Smart Contract Language**: Solidity, Move
-- **Frameworks**: Axum, Tokio, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
+- **Frameworks**: Axum, Tokio, SeaORM, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
 - **Databases: Mysql, PostgreSQL, Oracle, Redis, MongoDB
 - **Web3**: Cosmos SDK
 
