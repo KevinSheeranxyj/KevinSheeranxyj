@@ -1,7 +1,7 @@
 # Hello, I'm Kevin Sheeran 👋
 
 ## About Me
-I am a Backend developer(Rust, Golang, Java) with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
+I am a Backend developer(Rust, Golang, Java) and smart contract developer(Solana) with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
 
 
 ## Projects
