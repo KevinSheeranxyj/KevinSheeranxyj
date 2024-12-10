@@ -6,13 +6,13 @@ I am a Backend Developer(Rust, Golang, Java) and Smart Contract Developer(Solana
 
 ## Projects
 
-- [web-server-rs](https://github.com/kevinsheeranxyj/web-server-rs)
+- [dtcpay-rs](https://github.com/kevinsheeranxyj/dtcpay-rs)
 - [Surge Wallet](https://safesurge.xyz)
 
 ## Skills
 - **Languages**: Rust, Golang, Java, Javascript
 - **Smart Contract Language**: Solidity, Move
-- **Frameworks**: Axum, Tokio, SeaORM, Diesel, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud, Web3j, Foundry, Hardhat, Truffle, OpenZeppelin
+- **Frameworks**: Axum, Tokio, SeaORM, Diesel, Alloy, Jsonrpsee, Actix, Sqlx, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud
 - **Databases: Mysql, PostgreSQL, Oracle, Redis, MongoDB
 - **Web3**: Cosmos SDK, Anchor
 
