@@ -7,7 +7,7 @@ I am a Backend Developer(Rust, Golang, Java) and Smart Contract Developer(Solana
 - **Languages**: Rust, Golang, Java, Javascript
 - **Smart Contract Language**: Solidity, Move
 - **Frameworks**: Axum, Tokio, SeaORM, Diesel, Alloy, Jsonrpsee, Actix, Sqlx, Beego, Gin, Gorm, Heimdall, rpcx, gRPC-Go, Spring MVC, Spring Cloud
-- **Databases: Mysql, PostgreSQL, Oracle, Redis, MongoDB
+- **Databases**: Mysql, PostgreSQL, Oracle, Redis, MongoDB
 - **Web3**: Cosmos SDK, Anchor
 
 ## Contact
