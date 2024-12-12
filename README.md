@@ -3,12 +3,6 @@
 ## About Me
 I am a Backend Developer(Rust, Golang, Java) and Smart Contract Developer(Solana) with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
 
-
-## Projects
-
-- [dtcpay-rs](https://github.com/kevinsheeranxyj/dtcpay-rs)
-- [Surge Wallet](https://safesurge.xyz)
-
 ## Skills
 - **Languages**: Rust, Golang, Java, Javascript
 - **Smart Contract Language**: Solidity, Move
