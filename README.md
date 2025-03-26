@@ -1,7 +1,7 @@
 # Hello, I'm Kevin Sheeran 👋
 
 ## About Me
-I am a Backend Developer(Rust, Golang, Java) and Blockchain Developer(Solana) with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
+I am a Backend Developer(Rust, Golang, Java) and Blockchain Developer(Solana, SUI, Aptos, Evm-based) with a passion in open source projects and Web3 development, currently working in a Fin-tech Company.
 
 ## Skills
 - **Languages**: Rust, Golang, Java, Javascript
