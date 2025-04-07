@@ -15,3 +15,5 @@ I am a Backend Developer(Rust, Golang, Java) and Blockchain Developer(Solana, SU
 - [Twitter](https://x.com/Kevinsheeranxyj)
 - [Medium](https://medium.com/@kevinsheeranxyj)
 
+
+[![KevinSheeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinSheeranxyj)](https://github.com/anuraghazra/github-readme-stats)
