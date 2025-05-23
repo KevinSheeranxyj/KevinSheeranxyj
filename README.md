@@ -1,7 +1,7 @@
 # Hello, I'm Kevin Sheeran 👋
 
 ## About Me
-I am a Blockchain Developer(Solana, SUI, Aptos, Evm-based) & Full-stack Developer with a passion in open source projects and Web3 development, currently working in a web3 company.
+I am a Blockchain Developer(Solana, SUI, Aptos, Evm-based) & Backend Developer with a passion in open source projects and Web3 development, currently working in a web3 company.
 
 ## Skills
 - **Languages**: Rust, Golang, Java, Javascript
@@ -15,5 +15,4 @@ I am a Blockchain Developer(Solana, SUI, Aptos, Evm-based) & Full-stack Develope
 - [Twitter](https://x.com/Kevinsheeranxyj)
 - [Medium](https://medium.com/@kevinsheeranxyj)
 
-## Stats Overview
-[![KevinSheeran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinSheeranxyj&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
