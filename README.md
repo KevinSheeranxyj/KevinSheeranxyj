@@ -11,7 +11,7 @@ I am a Blockchain Developer(Solana, SUI, Aptos, Evm-based) & Backend Developer w
 - **Web3**: Cosmos SDK, Anchor
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/kevin-sheeran-182b1a25b/)
+- [LinkedIn](https://www.linkedin.com/in/kevinsheeranxyj/)
 - [Twitter](https://x.com/Kevinsheeranxyj)
 - [Medium](https://medium.com/@kevinsheeranxyj)
 
