@@ -1,7 +1,7 @@
 # Hello, I'm Kevin Sheeran 👋
 
 ## About Me
-I am a Blockchain Developer(Solana, SUI, Aptos, Evm-based) & Backend Developer with a passion in open source projects and Web3 development, currently working in a web3 company.
+I am a Blockchain Developer(Solana, SUI, Aptos, Evm-based) & Backend Developer with a passion in open source projects and Web3 development, currently working in DeFi.
 
 ## Skills
 - **Languages**: Rust, Golang, Java, Typescript
